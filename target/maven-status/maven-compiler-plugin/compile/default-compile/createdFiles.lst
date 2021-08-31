@@ -1,0 +1,4 @@
+com\example\springbootdockercomposemysql\controller\UserController.class
+com\example\springbootdockercomposemysql\SpringbootDockerComposeMysqlApplication.class
+com\example\springbootdockercomposemysql\entity\User.class
+com\example\springbootdockercomposemysql\repository\UserRepository.class
